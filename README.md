@@ -158,7 +158,6 @@ The requirements file contains the pinned package versions used by the applicati
 ```bash
 cd frontend
 npm install
-cd ..
 ```
 
 ## Running the Application
