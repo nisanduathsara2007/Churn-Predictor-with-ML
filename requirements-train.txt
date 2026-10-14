@@ -1,0 +1,5 @@
+# Extra packages for retraining the model locally with train.py
+-r requirements.txt
+imbalanced-learn==0.14.2
+matplotlib==3.11.1
+seaborn==0.13.2
